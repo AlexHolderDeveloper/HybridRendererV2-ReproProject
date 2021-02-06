@@ -8,6 +8,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/SwitchIL2CPPCache
+/SwitchIL2CPPStats
 /[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
